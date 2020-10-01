@@ -59,6 +59,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Docker](#docker)
   - [EmberJS](#emberjs)
   - [Erlang](#erlang)
+  - [Flutter](#flutter)
   - [Golang](#golang)
   - [GraphQl](#graphql)
   - [HTML](#html)
@@ -234,6 +235,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Erlang
 
 * [Top 22 Erlang Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-22-erlang-interview-questions/)
+
+### Flutter
+
+* [Top 20 Flutter Interview Questions - javatpoint](https://www.javatpoint.com/flutter-interview-questions)
+* [Flutter Interview Questions and Answers](https://medium.com/better-programming/flutter-interview-questions-and-answers-2020-adad5dacaf6a)
+* [Flutter Interview Questions](https://medium.com/flutterworld/flutter-interview-questions-c900eb3fdf6c)
+* [Flutter Interview Questions for 2020](https://www.onlineinterviewquestions.com/flutter-interview-questions/)
 
 ### Golang
 
