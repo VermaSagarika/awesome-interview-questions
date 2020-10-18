@@ -55,6 +55,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Cucumber](#cucumber)
+  - [Dart](#dart)
   - [Django](#django)
   - [Docker](#docker)
   - [EmberJS](#emberjs)
@@ -212,6 +213,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 * [Cucumber Web Application BDD Sample Interview Questions](https://ratedr05.wordpress.com/2017/09/22/cucumber-interview-questions/)
 * [Guide to building a simple Cucumber + Watir page object pattern framework](http://watir.com/simple-cucumber-watir-page-object-pattern-framework/)
+
+### Dart
+
+* [Top 22 Dart Interview Questions Must know in 2020](https://www.fullstack.cafe/blog/dart-interview-questions)
+* [TOP 250+ Dart programming language Interview Questions and Answers 2020 with tutorials](https://www.wisdomjobs.com/e-university/dart-programming-language-interview-questions.htmla)
+* [Dart Programming Interview Questions and Answers](https://www.mytectra.com/interview-question/dart-programming-interview-questions-and-answers)
 
 ### Django
 
